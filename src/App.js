@@ -42,15 +42,18 @@ class App extends React.Component {
                 type="range"
                 min="0"
                 max="255"
-                placeholder="Red"
               ></input>
             </div>
             <div className="col-6 ">
               <input
-                value={this.state.red}
+                defaultValue={this.state.red}
+                onChange={this.handleChange}
                 align="center"
                 type="number"
+                name="red"
                 className="form-control"
+                min="0"
+                max="255"
               ></input>
             </div>
           </div>
@@ -75,9 +78,13 @@ class App extends React.Component {
             <div className="col-6 ">
               <input
                 value={this.state.green}
+                onChange={this.handleChange}
                 align="center"
                 type="number"
                 className="form-control"
+                name="green"
+                min="0"
+                max="255"
               ></input>
             </div>
           </div>
@@ -102,9 +109,13 @@ class App extends React.Component {
             <div className="col-6 ">
               <input
                 value={this.state.blue}
+                onChange={this.handleChange}
                 align="center"
                 type="number"
                 className="form-control"
+                name="blue"
+                min="0"
+                max="255"
               ></input>
             </div>
           </div>
