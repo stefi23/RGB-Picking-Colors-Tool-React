@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RGB-Picking-Colors-Tool-React/precache-manifest.77b55adf3055b5ebdb01a6c79acb5248.js"
+  "/RGB-Picking-Colors-Tool-React/precache-manifest.3263d87ace4157fe401fdbc0acf78f20.js"
 );
 
 self.addEventListener('message', (event) => {
