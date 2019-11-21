@@ -81,3 +81,93 @@
 .row {
   margin-right: 0px !important;
 }
+
+.pickerRed {
+  margin: 10px;
+}
+
+.pickerRed {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 10px;
+  border-radius: 5px;
+  background: red;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.pickerRed:hover {
+  opacity: 1;
+}
+
+.pickerRed::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 0;
+  background: url("https://image.flaticon.com/icons/svg/694/694056.svg");
+  cursor: pointer;
+}
+
+.pickerGreen {
+  margin: 10px;
+}
+
+.pickerGreen {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 10px;
+  border-radius: 5px;
+  background: #51c651;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.pickerGreen:hover {
+  opacity: 1;
+}
+
+.pickerGreen::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 0;
+  background: url("https://image.flaticon.com/icons/svg/694/694056.svg");
+  cursor: pointer;
+}
+
+.pickerBlue {
+  margin: 10px;
+}
+
+.pickerBlue {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 10px;
+  border-radius: 5px;
+  background: #0080ff;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.pickerBlue:hover {
+  opacity: 1;
+}
+
+.pickerBlue::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 0;
+  background: url("https://image.flaticon.com/icons/svg/694/694056.svg");
+  cursor: pointer;
+}

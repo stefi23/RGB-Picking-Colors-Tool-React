@@ -37,7 +37,7 @@ class App extends React.Component {
               <input
                 onChange={this.handleChange}
                 value={this.state.red}
-                className="picker"
+                className="pickerRed"
                 name="red"
                 type="range"
                 min="0"
@@ -67,7 +67,7 @@ class App extends React.Component {
               <input
                 onChange={this.handleChange}
                 value={this.state.green}
-                className="picker"
+                className="pickerGreen"
                 name="green"
                 type="range"
                 min="0"
@@ -98,7 +98,7 @@ class App extends React.Component {
               <input
                 onChange={this.handleChange}
                 value={this.state.blue}
-                className="picker"
+                className="pickerBlue"
                 name="blue"
                 type="range"
                 min="0"
