@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/RGB-PICKING-COLORS-TOOLS-REACT/static/css/main.08d683a1.chunk.css",
-    "main.js": "/RGB-PICKING-COLORS-TOOLS-REACT/static/js/main.225c2b92.chunk.js",
-    "main.js.map": "/RGB-PICKING-COLORS-TOOLS-REACT/static/js/main.225c2b92.chunk.js.map",
-    "runtime-main.js": "/RGB-PICKING-COLORS-TOOLS-REACT/static/js/runtime-main.5aeef348.js",
-    "runtime-main.js.map": "/RGB-PICKING-COLORS-TOOLS-REACT/static/js/runtime-main.5aeef348.js.map",
-    "static/js/2.d16060c7.chunk.js": "/RGB-PICKING-COLORS-TOOLS-REACT/static/js/2.d16060c7.chunk.js",
-    "static/js/2.d16060c7.chunk.js.map": "/RGB-PICKING-COLORS-TOOLS-REACT/static/js/2.d16060c7.chunk.js.map",
-    "index.html": "/RGB-PICKING-COLORS-TOOLS-REACT/index.html",
-    "precache-manifest.1cc1e84add1aa31338bcf2826683a190.js": "/RGB-PICKING-COLORS-TOOLS-REACT/precache-manifest.1cc1e84add1aa31338bcf2826683a190.js",
-    "service-worker.js": "/RGB-PICKING-COLORS-TOOLS-REACT/service-worker.js",
-    "static/css/main.08d683a1.chunk.css.map": "/RGB-PICKING-COLORS-TOOLS-REACT/static/css/main.08d683a1.chunk.css.map"
+    "main.css": "/rgb-picking-colors-tools-react/static/css/main.08d683a1.chunk.css",
+    "main.js": "/rgb-picking-colors-tools-react/static/js/main.ebe30dcb.chunk.js",
+    "main.js.map": "/rgb-picking-colors-tools-react/static/js/main.ebe30dcb.chunk.js.map",
+    "runtime-main.js": "/rgb-picking-colors-tools-react/static/js/runtime-main.1753394c.js",
+    "runtime-main.js.map": "/rgb-picking-colors-tools-react/static/js/runtime-main.1753394c.js.map",
+    "static/js/2.d16060c7.chunk.js": "/rgb-picking-colors-tools-react/static/js/2.d16060c7.chunk.js",
+    "static/js/2.d16060c7.chunk.js.map": "/rgb-picking-colors-tools-react/static/js/2.d16060c7.chunk.js.map",
+    "index.html": "/rgb-picking-colors-tools-react/index.html",
+    "precache-manifest.42df0f95c782c988202e37204c3b62a7.js": "/rgb-picking-colors-tools-react/precache-manifest.42df0f95c782c988202e37204c3b62a7.js",
+    "service-worker.js": "/rgb-picking-colors-tools-react/service-worker.js",
+    "static/css/main.08d683a1.chunk.css.map": "/rgb-picking-colors-tools-react/static/css/main.08d683a1.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5aeef348.js",
+    "static/js/runtime-main.1753394c.js",
     "static/js/2.d16060c7.chunk.js",
     "static/css/main.08d683a1.chunk.css",
-    "static/js/main.225c2b92.chunk.js"
+    "static/js/main.ebe30dcb.chunk.js"
   ]
 }
