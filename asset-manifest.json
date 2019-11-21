@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Quote-Generator-With-React/static/css/main.08d683a1.chunk.css",
+    "main.js": "/Quote-Generator-With-React/static/js/main.b188d12e.chunk.js",
+    "main.js.map": "/Quote-Generator-With-React/static/js/main.b188d12e.chunk.js.map",
+    "runtime-main.js": "/Quote-Generator-With-React/static/js/runtime-main.ab3d6d0b.js",
+    "runtime-main.js.map": "/Quote-Generator-With-React/static/js/runtime-main.ab3d6d0b.js.map",
+    "static/js/2.d16060c7.chunk.js": "/Quote-Generator-With-React/static/js/2.d16060c7.chunk.js",
+    "static/js/2.d16060c7.chunk.js.map": "/Quote-Generator-With-React/static/js/2.d16060c7.chunk.js.map",
+    "index.html": "/Quote-Generator-With-React/index.html",
+    "precache-manifest.4d07fa4ff0d60f298b1670e4e0307699.js": "/Quote-Generator-With-React/precache-manifest.4d07fa4ff0d60f298b1670e4e0307699.js",
+    "service-worker.js": "/Quote-Generator-With-React/service-worker.js",
+    "static/css/main.08d683a1.chunk.css.map": "/Quote-Generator-With-React/static/css/main.08d683a1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab3d6d0b.js",
+    "static/js/2.d16060c7.chunk.js",
+    "static/css/main.08d683a1.chunk.css",
+    "static/js/main.b188d12e.chunk.js"
+  ]
+}
