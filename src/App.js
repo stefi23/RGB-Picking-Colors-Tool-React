@@ -46,7 +46,7 @@ class App extends React.Component {
             </div>
             <div className="col-6 ">
               <input
-                defaultValue={this.state.red}
+                value={this.state.red}
                 onChange={this.handleChange}
                 align="center"
                 type="number"
