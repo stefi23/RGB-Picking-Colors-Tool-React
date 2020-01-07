@@ -25,11 +25,16 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <form className="form mt-5">
+        <form className="form mt-5 rounded">
           <h1>RGB Picking Colors Tool</h1>
-          <div className="form-group">
+          <div className="form-group form-font">
             <div className="col-6 offset-6">
-              <label className="align-right">Red Color</label>
+              <label
+                className="align-right"
+                style={{ fontFamily: `"Open Sans", sans-serif` }}
+              >
+                Red Color
+              </label>
             </div>
           </div>
           <div className="row container-fluid">
@@ -59,7 +64,12 @@ class App extends React.Component {
           </div>
           <div className="form-group">
             <div className="col-6 offset-6">
-              <label className="align-right">Green Color</label>
+              <label
+                className="align-right"
+                style={{ fontFamily: `"Open Sans", sans-serif` }}
+              >
+                Green Color
+              </label>
             </div>
           </div>
           <div className="row container-fluid">
@@ -90,7 +100,12 @@ class App extends React.Component {
           </div>
           <div className="form-group">
             <div className="col-6 offset-6">
-              <label className="align-right">Blue Color</label>
+              <label
+                className="align-right"
+                style={{ fontFamily: `"Open Sans", sans-serif` }}
+              >
+                Blue Color
+              </label>
             </div>
           </div>
           <div className="row container-fluid">
@@ -125,7 +140,9 @@ class App extends React.Component {
               style={{
                 // border: "1px solid blue",
                 padding: "4px",
-                background: `${this.newColor()}`
+                background: `${this.newColor()}`,
+
+                fontFamily: `"Open Sans", sans-serif`
               }}
             >
               {this.newColor()}
